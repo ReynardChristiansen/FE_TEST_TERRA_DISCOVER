@@ -15,7 +15,7 @@ Run the Server Frontend
 
 ## Step to Run Backend
 
-https://github.com/ReynardChristiansen/BE_TEST_TERRA_DISCOVER.git
+https://github.com/ReynardChristiansen/BE_TEST_TERRA_DISCOVER
 
 
 ## Result
